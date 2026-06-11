@@ -1,1 +1,1 @@
-
+Face recognition from scratch using the AT&T face dataset. Trains on 389 grayscale images, compresses each face into a set of 50 numbers that capture what makes it unique, and matches new photos by finding the closest stored face. Can flag photos of people it has never seen before, and can generate new fake faces by mixing the learned components randomly.
